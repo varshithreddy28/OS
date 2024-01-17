@@ -1,0 +1,93 @@
+[
+  {
+    "customerId": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "date": "9/1/2019",
+    "time": "9:30 AM",
+    "amount": -100,
+    "branchNumber": 2299,
+    "isBankBranch": false,
+    "checkNumber": null,
+    "mortgageNumber": null,
+    "description": "ATM Withdrawl - Non Branch #2299"
+  },
+  {
+    "customerId": 2,
+    "firstName": "Jane",
+    "lastName": "Sally",
+    "date": "9/1/2019",
+    "time": "9:31 AM",
+    "amount": 50,
+    "branchNumber": 1234,
+    "isBankBranch": true,
+    "checkNumber": null,
+    "mortgageNumber": null,
+    "description": "Cash Deposit Branch #1234"
+  },
+  {
+    "customerId": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "date": "9/2/2019",
+    "time": "2:00 PM",
+    "amount": 3000,
+    "branchNumber": 1235,
+    "isBankBranch": true,
+    "checkNumber": 223195,
+    "mortgageNumber": null,
+    "description": "Cheque #223195 Deposit"
+  },
+  {
+    "customerId": 3,
+    "firstName": "Frank",
+    "lastName": "Foggia",
+    "date": "9/2/2019",
+    "time": "3:10 PM",
+    "amount": -232.24,
+    "branchNumber": 1233,
+    "isBankBranch": true,
+    "checkNumber": null,
+    "mortgageNumber": "M-12212",
+    "description": "Mortgage Payment"
+  },
+  {
+    "customerId": 2,
+    "firstName": "Jane",
+    "lastName": "Sally",
+    "date": "10/2/2019",
+    "time": "11:11 AM",
+    "amount": -150,
+    "branchNumber": 1234,
+    "isBankBranch": true,
+    "checkNumber": null,
+    "mortgageNumber": "M-12224",
+    "description": "Mortgage Payment"
+  },
+  {
+    "customerId": 3,
+    "firstName": "Frank",
+    "lastName": "Foggia",
+    "date": "15/2/2019",
+    "time": "3:30 PM",
+    "amount": 200,
+    "branchNumber": 2556,
+    "isBankBranch": false,
+    "checkNumber": null,
+    "mortgageNumber": null,
+    "description": "Cash Deposit Branch #2556"
+  },
+  {
+    "customerId": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "date": "16/1/2019",
+    "time": "9:30 AM",
+    "amount": -125,
+    "branchNumber": 2299,
+    "isBankBranch": false,
+    "checkNumber": null,
+    "mortgageNumber": null,
+    "description": "ATM Withdrawal - Non Branch #2299"
+  }
+]

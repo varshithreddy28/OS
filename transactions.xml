@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<financialTransactions>
+    <transaction>
+        <CustomerId>1</CustomerId>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Date>9/1/2019</Date>
+        <Time>9:30 AM</Time>
+        <Amount>-100</Amount>
+        <Branch_Number>2299</Branch_Number>
+        <Is_Bank_Branch>false</Is_Bank_Branch>
+        <Check_Number></Check_Number>
+        <Mortgage_Number></Mortgage_Number>
+        <Description>ATM Withdrawl - Non Branch #2299</Description>
+    </transaction>
+    <transaction>
+        <CustomerId>2</CustomerId>
+        <FirstName>Jane</FirstName>
+        <LastName>Sally</LastName>
+        <Date>9/1/2019</Date>
+        <Time>9:31 AM</Time>
+        <Amount>50</Amount>
+        <Branch_Number>1234</Branch_Number>
+        <Is_Bank_Branch>true</Is_Bank_Branch>
+        <Check_Number></Check_Number>
+        <Mortgage_Number></Mortgage_Number>
+        <Description>Cash Deposit Branch #1234</Description>
+    </transaction>
+    <transaction>
+        <CustomerId>1</CustomerId>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Date>9/2/2019</Date>
+        <Time>2:00 PM</Time>
+        <Amount>3000</Amount>
+        <Branch_Number>1235</Branch_Number>
+        <Is_Bank_Branch>true</Is_Bank_Branch>
+        <Check_Number>223195</Check_Number>
+        <Mortgage_Number></Mortgage_Number>
+        <Description>Cheque #223195 Deposit</Description>
+    </transaction>
+    <transaction>
+        <CustomerId>3</CustomerId>
+        <FirstName>Frank</FirstName>
+        <LastName>Foggia</LastName>
+        <Date>9/2/2019</Date>
+        <Time>3:10 PM</Time>
+        <Amount>-232.24</Amount>
+        <Branch_Number>1233</Branch_Number>
+        <Is_Bank_Branch>true</Is_Bank_Branch>
+        <Check_Number></Check_Number>
+        <Mortgage_Number>M-12212</Mortgage_Number>
+        <Description>Mortgage Payment</Description>
+    </transaction>
+    <transaction>
+        <CustomerId>2</CustomerId>
+        <FirstName>Jane</FirstName>
+        <LastName>Sally</LastName>
+        <Date>10/2/2019</Date>
+        <Time>11:11 AM</Time>
+        <Amount>-150</Amount>
+        <Branch_Number>1234</Branch_Number>
+        <Is_Bank_Branch>true</Is_Bank_Branch>
+        <Check_Number></Check_Number>
+        <Mortgage_Number>M-12224</Mortgage_Number>
+        <Description>Mortgage Payment</Description>
+    </transaction>
+    <transaction>
+        <CustomerId>3</CustomerId>
+        <FirstName>Frank</FirstName>
+        <LastName>Foggia</LastName>
+        <Date>15/2/2019</Date>
+        <Time>3:30 PM</Time>
+        <Amount>200</Amount>
+        <Branch_Number>2556</Branch_Number>
+        <Is_Bank_Branch>false</Is_Bank_Branch>
+        <Check_Number></Check_Number>
+        <Mortgage_Number></Mortgage_Number>
+        <Description>Cash Deposit Branch #2556</Description>
+    </transaction>
+    <transaction>
+        <CustomerId>1</CustomerId>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Date>16/1/2019</Date>
+        <Time>9:30 AM</Time>
+        <Amount>-125</Amount>
+        <Branch_Number>2299</Branch_Number>
+        <Is_Bank_Branch>false</Is_Bank_Branch>
+        <Check_Number></Check_Number>
+        <Mortgage_Number></Mortgage_Number>
+        <Description>ATM Withdrawl - Non Branch #2299</Description>
+    </transaction>
+</financialTransactions>
